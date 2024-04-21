@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73b58df0.css",
+    "main.js": "/static/js/main.e7f580f0.js",
+    "static/media/intro_pc_hover.png": "/static/media/intro_pc_hover.dba9fc3d32c558de043a.png",
+    "static/media/intro_mouse_hover.png": "/static/media/intro_mouse_hover.b0efd1857af09c71bbef.png",
+    "static/media/intro_eye_hover.png": "/static/media/intro_eye_hover.d5a77044cb9b78dc2995.png",
+    "index.html": "/index.html",
+    "main.73b58df0.css.map": "/static/css/main.73b58df0.css.map",
+    "main.e7f580f0.js.map": "/static/js/main.e7f580f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73b58df0.css",
+    "static/js/main.e7f580f0.js"
+  ]
+}
