@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio24/static/css/main.84a61c12.css",
-    "main.js": "/portfolio24/static/js/main.9163485a.js",
+    "main.js": "/portfolio24/static/js/main.0f3338e2.js",
     "static/media/intro_pc_hover.png": "/portfolio24/static/media/intro_pc_hover.dba9fc3d32c558de043a.png",
     "static/media/intro_mouse_hover.png": "/portfolio24/static/media/intro_mouse_hover.b0efd1857af09c71bbef.png",
     "static/media/intro_eye_hover.png": "/portfolio24/static/media/intro_eye_hover.d5a77044cb9b78dc2995.png",
     "index.html": "/portfolio24/index.html",
     "main.84a61c12.css.map": "/portfolio24/static/css/main.84a61c12.css.map",
-    "main.9163485a.js.map": "/portfolio24/static/js/main.9163485a.js.map"
+    "main.0f3338e2.js.map": "/portfolio24/static/js/main.0f3338e2.js.map"
   },
   "entrypoints": [
     "static/css/main.84a61c12.css",
-    "static/js/main.9163485a.js"
+    "static/js/main.0f3338e2.js"
   ]
 }
