@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio24/static/css/main.9d0197a8.css",
-    "main.js": "/portfolio24/static/js/main.b923eed3.js",
+    "main.css": "/portfolio24/static/css/main.9a9e3d02.css",
+    "main.js": "/portfolio24/static/js/main.a9809b31.js",
     "static/media/LaundryGothicBold.woff": "/portfolio24/static/media/LaundryGothicBold.103425ced1cd3b97f388.woff",
     "static/media/GangwonEduPower.woff": "/portfolio24/static/media/GangwonEduPower.496dfcea614ebe28e86d.woff",
     "static/media/intro_pc_hover.png": "/portfolio24/static/media/intro_pc_hover.dba9fc3d32c558de043a.png",
     "static/media/intro_mouse_hover.png": "/portfolio24/static/media/intro_mouse_hover.b0efd1857af09c71bbef.png",
     "static/media/intro_eye_hover.png": "/portfolio24/static/media/intro_eye_hover.d5a77044cb9b78dc2995.png",
     "index.html": "/portfolio24/index.html",
-    "main.9d0197a8.css.map": "/portfolio24/static/css/main.9d0197a8.css.map",
-    "main.b923eed3.js.map": "/portfolio24/static/js/main.b923eed3.js.map"
+    "main.9a9e3d02.css.map": "/portfolio24/static/css/main.9a9e3d02.css.map",
+    "main.a9809b31.js.map": "/portfolio24/static/js/main.a9809b31.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d0197a8.css",
-    "static/js/main.b923eed3.js"
+    "static/css/main.9a9e3d02.css",
+    "static/js/main.a9809b31.js"
   ]
 }
