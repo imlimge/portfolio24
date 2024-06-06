@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio24/static/css/main.0e9656ec.css",
-    "main.js": "/portfolio24/static/js/main.7698e96b.js",
+    "main.js": "/portfolio24/static/js/main.4f33d71e.js",
     "static/media/Cafe24Ssurround-v2.0.woff2": "/portfolio24/static/media/Cafe24Ssurround-v2.0.d7af47c4e0698167fe07.woff2",
     "static/media/LaundryGothicBold.woff": "/portfolio24/static/media/LaundryGothicBold.103425ced1cd3b97f388.woff",
     "static/media/GangwonEduPower.woff": "/portfolio24/static/media/GangwonEduPower.496dfcea614ebe28e86d.woff",
     "index.html": "/portfolio24/index.html",
     "main.0e9656ec.css.map": "/portfolio24/static/css/main.0e9656ec.css.map",
-    "main.7698e96b.js.map": "/portfolio24/static/js/main.7698e96b.js.map"
+    "main.4f33d71e.js.map": "/portfolio24/static/js/main.4f33d71e.js.map"
   },
   "entrypoints": [
     "static/css/main.0e9656ec.css",
-    "static/js/main.7698e96b.js"
+    "static/js/main.4f33d71e.js"
   ]
 }
